@@ -1,3 +1,5 @@
+[!https://github-readme-stats.vercel.app/api?username=Fyphen1223&show_icons=true]
+
 - 👋 Hi, I’m @Fyphen1223
 - 📫 How to reach me ...
 - My SNS: 
