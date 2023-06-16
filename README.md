@@ -5,4 +5,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fyphen1223&theme=yeblu" />
 </a>
 
-![GitHub Rank](https://github-profile-trophy.vercel.app/?username=Fyphen1223&row=2&column=3)
+![GitHub Rank](https://github-profile-trophy.vercel.app/?username=Fyphen1223&row=8&column=3&theme=onedark)
