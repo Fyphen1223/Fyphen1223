@@ -1,8 +1,8 @@
 <p align="left">
-  <a href="https://github.com/Keichan15">
+  <a href="https://github.com/Fyphen1223">
     <img height="20" src="https://komarev.com/ghpvc/?username=Fyphen1223" />
   </a>
-  <a href="https://github.com/Keichan15">
+  <a href="https://github.com/Fyphen1223">
     <img height="20" src="https://img.shields.io/github/followers/Fyphen1223?label=follow&logo=github&style=flat" />
   </a>
 </p>
