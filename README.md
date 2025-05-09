@@ -13,6 +13,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fyphen1223&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fyphen1223&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fyphen1223&theme=gruvbox&utcOffset=9)
+[![committers.top badge](https://user-badge.committers.top/japan/Fyphen1223.svg)](https://user-badge.committers.top/japan/Fyphen1223)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Fyphen1223&theme=gruvbox)
